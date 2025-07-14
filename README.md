@@ -1,2 +1,2 @@
-# devops-app
+# mENYAEM OPISANIE
 # devops-app
